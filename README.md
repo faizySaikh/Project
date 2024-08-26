@@ -1,5 +1,5 @@
 # New project 
 
 This project was created from local system.
-Created by Faizy shaikh
+Created by Faizy shaikh.
 
